@@ -22,37 +22,37 @@
 ## 6주 커리큘럼
 
 ```markdown
-1주차: React 기초 및 JavaScript 개념
+1주차
 
     1.	Props & State (React)
     2.	JavaScript Data Types(JS)
     3.	CSS
 
-2주차: JavaScript 실행 원리와 React Hooks
+2주차
 
     1.	Execution Context (JavaScript)
     2.	Event (JavaScript)
     3.	Browser Rendering Process (CS)
 
-3주차: 비동기 프로그래밍과 DOM 처리
+3주차
 
     1.	Javascript Module System (Javascript)
     2.	DOM (JavaScript)
     3.	Hook (React)
 
-4주차: 고급 JavaScript 개념과 React 컴포넌트 관리
+4주차
 
     1.	Closure (JavaScript)
     2.	Controlled vs Uncontrolled Components (React)
     3.	SPA (Single Page Application) vs MPA(Multi Page Application) (CS)
 
-5주차: 프로토타입과 비동기 처리 심화
+5주차
 
     1.	Prototype (JavaScript)
     2.	Virtual DOM (React)
     3.	Asynchronous Programming + Event Loop (JavaScript)
 
-6주차: TypeScript
+6주차
 
     1.	Type vs Interface (TypeScript)
     2.	Generics (TypeScript)
